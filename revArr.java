@@ -1,4 +1,4 @@
-public class Main {
+public class revArr {
    //Function to print array
    static void printArray(int arr[], int n) {
       System.out.print("Reversed array is:- \n");
