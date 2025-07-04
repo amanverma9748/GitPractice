@@ -13,6 +13,8 @@ class checkSort
             System.out.println("Array not sorted");
 
         }
-        System.out.println("Array is sorted");     
+                System.out.println("Array is sorted");
+        
+        
     }
 }
