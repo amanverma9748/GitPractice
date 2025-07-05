@@ -1,4 +1,5 @@
-class Test
+class SecElementArr
+
 {
 static private int secondSmallest(int[] arr, int n)
 {

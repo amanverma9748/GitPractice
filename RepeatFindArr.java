@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class RepeatFind {
+public class RepeatFindArr {
     static void findRepeatingElements(int arr[]) {
         Arrays.sort(arr);
 

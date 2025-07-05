@@ -1,4 +1,4 @@
-public class removeDuplicate {
+public class removeDuplicateArr {
     
     static int removeD(int[] arr) {
         int i = 0;

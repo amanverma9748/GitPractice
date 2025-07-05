@@ -1,4 +1,5 @@
-class checkSort
+class checkSortArr
+
 {
     public static void main(String[] args)
     {

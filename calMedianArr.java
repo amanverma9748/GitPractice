@@ -1,5 +1,5 @@
 import java.util.Arrays;
-class calMedian
+class calMedianArr
 {
 static private void getMedian(int[] arr, int n)
 {
