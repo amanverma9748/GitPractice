@@ -1,4 +1,3 @@
-import java.util.*;
  
 class EquilibriumArr {
   public static int findEquilibriumIdx(int nums[], int n) {
