@@ -6,6 +6,7 @@ class circleAreaNum {
     System.out.print("Area of circle is : " + ans);
 
   }
+
   public static void main(String args[]) {
     int n = 5;
     areaOfCircle(n);

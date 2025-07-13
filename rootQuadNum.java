@@ -1,6 +1,6 @@
 import java.util.*;
  
-public class tuf {
+public class rootQuadNum {
     static void rootQuadNum(int a, int b, int c)
     {
         if (a == 0) {
