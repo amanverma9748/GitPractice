@@ -5,11 +5,10 @@ public class factorsNum {
             {  
                 if (n%i==0)
                 {
-                    // If divisors are equal, print only one
                     if (n/i == i)
                         System.out.print(" "+ i);
          
-                    else // Otherwise print both
+                    else 
                         System.out.print(i+" " + n/i + " " );
                 } 
             }

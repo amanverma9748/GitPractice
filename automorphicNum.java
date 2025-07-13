@@ -23,6 +23,5 @@ public class automorphicNum {
     else
     System.out.println("Not Automorphic Number");
   }
-}  {
-    
 }
+    

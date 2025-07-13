@@ -1,7 +1,6 @@
-import java.util.*;
  
 public class rootQuadNum {
-    static void rootQuadNum(int a, int b, int c)
+    static void rootQuad(int a, int b, int c)
     {
         if (a == 0) {
             System.out.println("Invalid");
@@ -36,6 +35,6 @@ public class rootQuadNum {
         {
              int a = 1, b = -3, c = -10;
              
-             Roots(a, b, c);
+             rootQuad(a, b, c);
         }
 }
