@@ -11,7 +11,8 @@ class perfectNum {
     }
     if (sum == n)
       return true;
-    else return false;
+    else 
+      return false;
   }
 
   public static void main(String[] args) {
