@@ -2,7 +2,7 @@ public class palinNum
 {
     public static void main(String[] args) 
     {
-    int n=122122;
+    int n=1221;
     int temp=n;
     int rev=0;
 
