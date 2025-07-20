@@ -1,4 +1,4 @@
-public class RotateByk {
+public class rotateByk {
   public static void swap(int[] arr, int a, int b, int k) {
     for (int i = 0; i < k; i++) {
       int temp = arr[a + i];
@@ -6,6 +6,7 @@ public class RotateByk {
       arr[b + i] = temp;
     }
   }
+
   public static void BlockSwap(int[] arr, int i, int k, int n) {
     if (k == 0 || k == n)
       return;
@@ -25,6 +26,7 @@ public class RotateByk {
       BlockSwap(arr, n - k + i, 2 * k - n, k);
     }
   }
+
   public static void main(String args[]) {
     int[] arr = { 1, 2, 3, 4, 5, 6, 7 };
     int n = 7;

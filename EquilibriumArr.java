@@ -1,5 +1,5 @@
  
-class EquilibriumArr {
+class equilibriumArr {
   public static int findEquilibriumIdx(int nums[], int n) {
     int leftSum, rightSum;
  
