@@ -1,5 +1,5 @@
 
-public class ArmstrongNum {
+public class armstrongNum {
     public static boolean isArmstrong(int num) 
     {
         int k = String.valueOf(num).length();     

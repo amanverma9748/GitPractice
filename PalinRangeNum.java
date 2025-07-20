@@ -1,4 +1,4 @@
-public class PalinRangeNum 
+public class palinRangeNum 
 {
     static boolean isPalin(int n)
     {

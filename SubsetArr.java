@@ -1,4 +1,4 @@
-public class SubsetArr {
+public class subsetArr {
     static boolean isSubset(int arr1[], int m, int arr2[], int n)
     {
         if(m>n)

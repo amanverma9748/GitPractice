@@ -1,4 +1,4 @@
-public class PalinNum 
+public class palinNum 
 {
     public static void main(String[] args) 
     {

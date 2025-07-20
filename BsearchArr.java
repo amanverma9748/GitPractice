@@ -1,4 +1,4 @@
-public class BsearchArr {
+public class bsearchArr {
   public static void main(String args[]) {
     int arr[] = {6,7,9,5,3,10};
     int n = arr.length;
