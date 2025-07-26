@@ -1,3 +1,4 @@
+//Basic Pattern 2
 public class decreasingPattern
 {
     public static void main(String[] args)

@@ -1,3 +1,4 @@
+//Basic Pattern 1
 public class increasingPattern 
 {
     public static void main(String[] args)
